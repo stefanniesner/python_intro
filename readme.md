@@ -1,4 +1,5 @@
 # Python introduction for pandas and JSON
 ## Hintergrund
 Das ist eine Einführung für Pandas und JSON.
-## Was haben wir getan
+## Was haben wir getan?
+Viel! :-)
