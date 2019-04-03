@@ -1,5 +1,5 @@
-# Python introduction for pandas and JSON
+# Python-Einführung für pandas and JSON
 ## Hintergrund
-Das ist eine Einführung für Pandas und JSON.
+Das ist eine Einführung für pandas und JSON.
 ## Was haben wir getan?
-Viel! :-)
+toll programmiert :-)
